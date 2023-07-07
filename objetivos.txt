@@ -1,0 +1,27 @@
+Feito:
+    - Encontrar uma base de dados para o projeto;
+    - Processar dados oficiais em formatos diferentes;
+    - Criar um mapa do Brasil;
+    - Fazer uma estrura de normalização de nomes com caractres especiais;
+    - Colocar as cidades no mapa;
+    - Fazer pop-ups para as cidades;
+
+To do list:
+    - Organizar os arquivos e pastas do projeto;
+
+
+=============Planejamento==============
+
+Genérico:
+    - Otimizar o Código;
+
+Folium:
+    - Criar um caminho que conecta todas as capitais;
+    - Criar uma segunda camada que mostre algo diferente, bem como a interface para alterar entre as camadas;
+
+MatPlotLib:
+    - Procurar no IBGE um par de dados para correlacionar;
+    - Criar os gráficos respectivos;
+
+Misto:
+    - Colocar os gráficos feitos no MatPlotLib nos pop-ups;

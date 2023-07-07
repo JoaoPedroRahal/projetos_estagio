@@ -6,11 +6,12 @@ Feito:
     - Colocar as cidades no mapa;
     - Fazer pop-ups para as cidades;
     - Organizar os arquivos e pastas do projeto;
+    - Criar um caminho que conecta todas as capitais;
     
 To do list:
 
-    - Criar um caminho que conecta todas as capitais;
-
+    - Fazer o caminho conectar APENAS as capitais;
+    - Separar o tratamento de dados do gerador de mapas. O arquivo atual irá para tests e novos notebooks serão criados, cada um com sua função.
 
 =============Planejamento==============
 

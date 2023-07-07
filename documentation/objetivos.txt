@@ -5,9 +5,11 @@ Feito:
     - Fazer uma estrura de normalização de nomes com caractres especiais;
     - Colocar as cidades no mapa;
     - Fazer pop-ups para as cidades;
-
-To do list:
     - Organizar os arquivos e pastas do projeto;
+    
+To do list:
+
+    - Criar um caminho que conecta todas as capitais;
 
 
 =============Planejamento==============
@@ -16,7 +18,7 @@ Genérico:
     - Otimizar o Código;
 
 Folium:
-    - Criar um caminho que conecta todas as capitais;
+    
     - Criar uma segunda camada que mostre algo diferente, bem como a interface para alterar entre as camadas;
 
 MatPlotLib:

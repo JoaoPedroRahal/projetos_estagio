@@ -8,10 +8,10 @@ Feito:
     - Organizar os arquivos e pastas do projeto;
     - Criar um caminho que conecta todas as capitais;
     
-To do list:
+Lista de afazeres:
 
     - Fazer o caminho conectar APENAS as capitais;
-    - Separar o tratamento de dados do gerador de mapas. O arquivo atual irá para tests e novos notebooks serão criados, cada um com sua função.
+    - Criar camadas contendo as linhas, marcadores e polígonos coropléticos, bem como a interface para alterar e sobrepor as camadas;
 
 =============Planejamento==============
 
@@ -19,12 +19,10 @@ Genérico:
     - Otimizar o Código;
 
 Folium:
-    
-    - Criar uma segunda camada que mostre algo diferente, bem como a interface para alterar entre as camadas;
 
 MatPlotLib:
     - Procurar no IBGE um par de dados para correlacionar;
     - Criar os gráficos respectivos;
 
 Misto:
-    - Colocar os gráficos feitos no MatPlotLib nos pop-ups;
+    - Colocar os gráficos feitos no MatPlotLib nos pop-ups dos markers;

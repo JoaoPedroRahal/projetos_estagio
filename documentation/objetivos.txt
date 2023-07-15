@@ -11,7 +11,7 @@ Feito:
 Lista de afazeres:
 
     - Fazer o caminho conectar APENAS as capitais;
-    - Criar camadas contendo as linhas, marcadores e polígonos coropléticos, bem como a interface para alterar e sobrepor as camadas;
+    - Criar camadas contendo as linhas, marcadores e polígonos coropléticos, bem como a interface para alterar e sobrepor as camadas --duvida;
 
 =============Planejamento==============
 

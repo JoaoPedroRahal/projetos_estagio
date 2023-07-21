@@ -924,6 +924,72 @@
     "population_proper": "161957"
   }, 
   {
+    "city": "Cuiabá", 
+    "lat": "-15.5989", 
+    "lng": "-56.0949", 
+    "country": "Brazil", 
+    "iso2": "BR", 
+    "admin_name": "Cuiabá", 
+    "capital": "admin", 
+    "population": "618124", 
+    "population_proper": "618124"
+  },
+  {
+    "city": "Campo Grande", 
+    "lat": "-20.4435", 
+    "lng": "-54.6478", 
+    "country": "Brazil", 
+    "iso2": "BR", 
+    "admin_name": "Campo Grande", 
+    "capital": "admin", 
+    "population": "916001", 
+    "population_proper": "916001"
+  },
+  {
+    "city": "Boa Vista", 
+    "lat": "2.81954", 
+    "lng": "-60.6714", 
+    "country": "Brazil", 
+    "iso2": "BR", 
+    "admin_name": "Boa Vista", 
+    "capital": "admin", 
+    "population": "419652", 
+    "population_proper": "419652"
+  },
+  {
+    "city": "Porto Velho", 
+    "lat": "-8.7618", 
+    "lng": "-63.902", 
+    "country": "Brazil", 
+    "iso2": "BR", 
+    "admin_name": "Porto Velho", 
+    "capital": "admin", 
+    "population": "539354", 
+    "population_proper": "539354"
+  },
+  {
+    "city": "Macapá", 
+    "lat": "0.03446", 
+    "lng": "-51.0666", 
+    "country": "Brazil", 
+    "iso2": "BR", 
+    "admin_name": "Macapá", 
+    "capital": "admin", 
+    "population": "512902", 
+    "population_proper": "512902"
+  },
+  {
+    "city": "Rio Branco", 
+    "lat": "-9.974", 
+    "lng": "-67.8076", 
+    "country": "Brazil", 
+    "iso2": "BR", 
+    "admin_name": "Rio Branco", 
+    "capital": "admin", 
+    "population": "413418", 
+    "population_proper": "413418"
+  },
+  {
     "city": "Ibirité", 
     "lat": "-20.0219", 
     "lng": "-44.0589", 
@@ -978,6 +1044,7 @@
     "population": "131626", 
     "population_proper": "131626"
   }, 
+ 
   {
     "city": "Santana de Parnaíba", 
     "lat": "-23.4439", 
